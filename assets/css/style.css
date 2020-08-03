@@ -367,6 +367,7 @@ button[type="submit"]
 
 }
 
+div#map {min-height: 360px;}
 /*--------------Contact Form-------------*/
 
 @media(min-width: 992px){
